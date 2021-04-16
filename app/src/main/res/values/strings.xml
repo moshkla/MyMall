@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">MyMall</string>
+    <string name="Or">OR</string>
+    <string name="ForgetMyPassword">ForgetMyPassword</string>
+    <string name="SignUp">Don\'t have Acc Sign Up ?!</string>
+    <string name="AlreadyHaveAccout">AlreadyHaveAccout !!</string>
+    <string name="Register">Sign Up</string>
+    <string name="SignIn">Sign In</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="todo">TODO</string>
+    <string name="confirmPass">Confirm Password</string>
+    <string name="name">Enter your Name</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="resetPass">Reset Your Password</string>
+    <string name="reset">Reset</string>
+    <string name="todo4">TODO</string>
+    <string name="BacktToLogin">Back To Login</string>
+    <string name="messageSent">Message has been sent please check your inbox</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="notification_icon">notification_icon</string>
+    <string name="cart_icon">cart_icon</string>
+    <string name="MyOrders">My Orders</string>
+    <string name="MyRewards">My Rewards</string>
+    <string name="MyCart">My Cart</string>
+    <string name="MyWishList">My WishList</string>
+    <string name="MyAccount">My Account</string>
+    <string name="MyMall">My Mall</string>
+    <string name="SignOut">Sign Out</string>
+    <string name="txt">TextView</string>
+    <string name="todo111">TODO</string>
+
+    <string-array name="egypt_states">
+        <item>Gharbia</item>
+        <item>Aswan</item>
+        <item>Alexandria</item>
+        <item>Asyut</item>
+        <item>Suez</item>
+        <item>Sohag</item>
+        <item>Sharqia</item>
+        <item>Red Sea</item>
+        <item>Qena</item>
+        <item>Qalyubia</item>
+        <item>Port Said</item>
+        <item>North Sinai</item>
+        <item>South Sinai</item>
+        <item>New Valley</item>
+        <item>Monufia</item>
+        <item>Minya</item>
+        <item>Matruh</item>
+        <item>Luxor</item>
+        <item>Kafr El Sheikh</item>
+        <item>Ismailia</item>
+        <item>Giza</item>
+        <item>Faiyum</item>
+        <item>Damietta</item>
+        <item>Dakahlia</item>
+        <item>Cairo</item>
+        <item>Beni Suef</item>
+        <item>Beheira</item>
+
+    </string-array>
+</resources>

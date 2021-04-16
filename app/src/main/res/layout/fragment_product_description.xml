@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProductDescriptionFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/tv_product_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:layout_margin="16dp"
+        android:text="I got all the vehicle information and full descriptions of the people. It is true, on the other hand, that in her descriptions  I got all the vehicle information and full descriptions of the people. It is true, on the other hand, that in her descriptions, she is best from the point of view of art when she is faithful to her own sensations; and this is precisely true of all artists" />
+
+</FrameLayout>

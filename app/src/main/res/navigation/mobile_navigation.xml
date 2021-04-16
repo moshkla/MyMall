@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_myMall">
+
+    <fragment
+        android:id="@+id/nav_myMall"
+        android:name="com.anas.mymall.ui.myMall.MyMallFragment"
+        android:label="@string/MyMall"
+        tools:layout="@layout/fragment_mymall" />
+
+
+    <fragment
+        android:id="@+id/nav_orders"
+        android:name="com.anas.mymall.ui.orders.OrdersFragment"
+        android:label="@string/MyOrders"
+        tools:layout="@layout/fragment_orders" />
+
+    <fragment
+        android:id="@+id/nav_rewards"
+        android:name="com.anas.mymall.ui.rewards.RewardsFragment"
+        android:label="@string/MyRewards"
+        tools:layout="@layout/fragment_rewards" />
+
+    <fragment
+        android:id="@+id/nav_cart"
+        android:name="com.anas.mymall.ui.cart.CartFragment"
+        android:label="@string/MyCart"
+        tools:layout="@layout/fragment_cart" />
+
+    <fragment
+        android:id="@+id/nav_WishList"
+        android:name="com.anas.mymall.ui.wish_list.WishListFragment"
+        android:label="@string/MyWishList"
+        tools:layout="@layout/fragment_wishlist" />
+
+    <fragment
+        android:id="@+id/nav_account"
+        android:name="com.anas.mymall.ui.account.AccountFragment"
+        android:label="@string/MyAccount"
+        tools:layout="@layout/fragment_account" />
+
+</navigation>
